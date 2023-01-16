@@ -4,5 +4,5 @@ let variables ={
   undefined ,
   nulll : 0
 }
-console.log(variables);
+console.log(variables);;
 
